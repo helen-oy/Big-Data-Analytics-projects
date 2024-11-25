@@ -1,4 +1,4 @@
-1. Healthcare Tweets Sentiment Analysis:
+Healthcare Tweets Sentiment Analysis:
    
 **Project Overview**
 Millions of healthcare-related tweets are posted daily, offering valuable insights but remain largely unstructured and unlabelled. This study tackles the challenge of classifying these tweets using a semi-supervised machine learning approach implemented in the Apache Spark distributed computing framework. Two big data solutions—global self-supervised learning and local semi-supervised learning—were developed to label tweets and classify them efficiently.
